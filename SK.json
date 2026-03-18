@@ -3,21 +3,21 @@
     "country_code": "SK",
     "list": [
         {
-            "id": "1",
+            "id": null,
             "bank": "ACROSS WEALTH MANAGEMENT, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "AWMOSKB1"
         },
         {
-            "id": "2",
+            "id": null,
             "bank": "AGENTÚRA PRE RIADENIE DLHU A LIKVIDITY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "APRDSKB1"
         },
         {
-            "id": "3",
+            "id": null,
             "bank": "AIG FUNDS CENTRAL EUROPE SPRAV.SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -31,35 +31,35 @@
             "swift_code": "AKCTSK21"
         },
         {
-            "id": "5",
+            "id": null,
             "bank": "ALLIANZ ASSET MANAGEMENT, SPRAV. SPOL.,A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "AAMPSKB1"
         },
         {
-            "id": "6",
+            "id": null,
             "bank": "AM SLSP SPRAV. SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SLSSSKB1"
         },
         {
-            "id": "7",
+            "id": null,
             "bank": "AMSLICO AIG SECURITIES O.C.P, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "AASCSKB1"
         },
         {
-            "id": "8",
+            "id": null,
             "bank": "ASSET MANAGEMENT SLOVENSKEJ SPORITE LNE, SPRAV. SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "AMLSSKB1"
         },
         {
-            "id": "9",
+            "id": null,
             "bank": "BHS SLOVAKIA, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -80,14 +80,14 @@
             "swift_code": "BPPCSKB1"
         },
         {
-            "id": "12",
+            "id": null,
             "bank": "BROKERSKÝ DOM O.C.P. A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "BRODSKB1"
         },
         {
-            "id": "13",
+            "id": null,
             "bank": "BUDA-CASH ZRT.-POBOCKA BRATISLAVA",
             "city": "BRATISLAVA",
             "branch": null,
@@ -101,14 +101,14 @@
             "swift_code": "XBRASKB1"
         },
         {
-            "id": "15",
+            "id": null,
             "bank": "CAPITAL INVEST, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "CINHSKB1"
         },
         {
-            "id": "16",
+            "id": null,
             "bank": "CAPITAL MARKETS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -171,7 +171,7 @@
             "swift_code": "COBASKBX"
         },
         {
-            "id": "25",
+            "id": null,
             "bank": "ČSOB ASSET MANAGEMENT, SPRÁV. SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -185,21 +185,21 @@
             "swift_code": "KBSPSKBX"
         },
         {
-            "id": "27",
+            "id": null,
             "bank": "DLHOPIS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "DLOCSKB1"
         },
         {
-            "id": "28",
+            "id": null,
             "bank": "EUROPEAN INVESTMENT CENTRE",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "EUICSKB1"
         },
         {
-            "id": "29",
+            "id": null,
             "bank": "EUROPEAN RATING AGENCY, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -213,7 +213,7 @@
             "swift_code": "EXSKSKBX"
         },
         {
-            "id": "31",
+            "id": null,
             "bank": "FIMEX CAPITAL O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -227,7 +227,7 @@
             "swift_code": "FIOZSKBA"
         },
         {
-            "id": "33",
+            "id": null,
             "bank": "FIO O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -241,7 +241,7 @@
             "swift_code": "FDXXSKBA"
         },
         {
-            "id": "35",
+            "id": null,
             "bank": "INFINITY CAPITAL, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -255,7 +255,7 @@
             "swift_code": "INGBSKBX"
         },
         {
-            "id": "37",
+            "id": null,
             "bank": "INVESTIČNÁ A DÔCHODKOVÁ, SPRÁV. SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -269,14 +269,14 @@
             "swift_code": "JTBPSKBA"
         },
         {
-            "id": "39",
+            "id": null,
             "bank": "J AND T CORPORATE FINANCE SLOVAKIA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SESCSKB1"
         },
         {
-            "id": "40",
+            "id": null,
             "bank": "J AND T FINANCE GROUP, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -304,7 +304,7 @@
             "swift_code": "KOMBSKBA"
         },
         {
-            "id": "44",
+            "id": null,
             "bank": "M SECURITIES O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -318,49 +318,49 @@
             "swift_code": "BREXSKBX"
         },
         {
-            "id": "46",
+            "id": null,
             "bank": "MINISTRY OF FINANCE OF THE SLOVAK REPUBLIC",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "MFSRSKB1"
         },
         {
-            "id": "47",
+            "id": null,
             "bank": "MOBIS SLOVAKIA S.R.O.",
             "city": "GBELANY",
             "branch": null,
             "swift_code": "HYMOSK21"
         },
         {
-            "id": "48",
+            "id": null,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(CUSTOMER NAMING CONVENTION)",
             "swift_code": "KRAFSKBAPYL"
         },
         {
-            "id": "49",
+            "id": null,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(SHARED SERVICE CENTRE)",
             "swift_code": "KRAFSKBASSC"
         },
         {
-            "id": "50",
+            "id": null,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(TREASURY)",
             "swift_code": "KRAFSKBATSY"
         },
         {
-            "id": "51",
+            "id": null,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "KRAFSKBA"
         },
         {
-            "id": "52",
+            "id": null,
             "bank": "MONEY MARKET BROKERS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -437,14 +437,14 @@
             "swift_code": "NBSBSKBX"
         },
         {
-            "id": "63",
+            "id": null,
             "bank": "NÁRODNÝ CENTRÁLNY DEPOZITÁR CENNÝCH PAPIEROV, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "NCDCSKBA"
         },
         {
-            "id": "64",
+            "id": null,
             "bank": "NÁRODNÝ CENTRÁLNY DEPOZITÁR CENNÝCH PAPIEROV, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -465,28 +465,28 @@
             "swift_code": "OTPVSKBX"
         },
         {
-            "id": "67",
+            "id": null,
             "bank": "OXYS CAPITAL, A.S., O.C.P.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "OXCCSKB1"
         },
         {
-            "id": "68",
+            "id": null,
             "bank": "PALCO BROKERS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "PABOSKB1"
         },
         {
-            "id": "69",
+            "id": null,
             "bank": "PAYMENT INSTITUTION NFD A.S.",
             "city": "STARÁ ĽUBOVŇA",
             "branch": null,
             "swift_code": "NFDNSKBA"
         },
         {
-            "id": "70",
+            "id": null,
             "bank": "PORTFIN, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -626,7 +626,7 @@
             "swift_code": "BSLOSK22"
         },
         {
-            "id": "90",
+            "id": null,
             "bank": "PROXENTA FINANCE, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -640,98 +640,98 @@
             "swift_code": "PRVASKBA"
         },
         {
-            "id": "92",
+            "id": null,
             "bank": "QUANTON SOLUTIONS",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "QSOLSKB1"
         },
         {
-            "id": "93",
+            "id": null,
             "bank": "RAIFFEISEN CENTROBANK AG SLOVAK BRANCH, POBOČKA ZAHRANIČNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "CENBSKB1"
         },
         {
-            "id": "94",
+            "id": null,
             "bank": "RM-S MARKET, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "RMMOSKB1"
         },
         {
-            "id": "95",
+            "id": null,
             "bank": "RVS, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SNCESKB1"
         },
         {
-            "id": "96",
+            "id": null,
             "bank": "SALVE INVESTMENTS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SAIPSKB1"
         },
         {
-            "id": "97",
+            "id": null,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(SEH-SK)",
             "swift_code": "SECTSKS1492"
         },
         {
-            "id": "98",
+            "id": null,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "GALANTA",
             "branch": "(SESK)",
             "swift_code": "SECTSKS14M0"
         },
         {
-            "id": "99",
+            "id": null,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "TRNAVA",
             "branch": "(SELSK)",
             "swift_code": "SECTSKS14B5"
         },
         {
-            "id": "100",
+            "id": null,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "TRNAVA",
             "branch": null,
             "swift_code": "SECTSKS1"
         },
         {
-            "id": "101",
+            "id": null,
             "bank": "SEVISBROKERS FINANCE O.C.P., A.S.",
             "city": "ŽILINA",
             "branch": null,
             "swift_code": "SEFOSK21"
         },
         {
-            "id": "102",
+            "id": null,
             "bank": "SFM GROUP, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SFGOSKB1"
         },
         {
-            "id": "103",
+            "id": null,
             "bank": "ŠKODA AUTO SLOVENSKO",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SKAOSKB1"
         },
         {
-            "id": "104",
+            "id": null,
             "bank": "SLAVIA CAPITAL, A.S., O.C.P.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SLCCSKB1"
         },
         {
-            "id": "105",
+            "id": null,
             "bank": "SLOVAK NATIONAL EMISSION REGISTRY",
             "city": "ŽILINA",
             "branch": null,
@@ -766,14 +766,14 @@
             "swift_code": "SPSRSKBAARD"
         },
         {
-            "id": "110",
+            "id": null,
             "bank": "SYMPATIA FINANCIE, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SYFOSKB1"
         },
         {
-            "id": "111",
+            "id": null,
             "bank": "TATRA ASSET MANAGEMENT, SPRAV.SPOL. A.S.",
             "city": "BRATISLAVA",
             "branch": null,
@@ -794,7 +794,7 @@
             "swift_code": "TPAYSKBX"
         },
         {
-            "id": "114",
+            "id": null,
             "bank": "UNIBON-SPOŘITELNÍ A ÚVĚRNÍ DRUŽSTVO",
             "city": "BRATISLAVA",
             "branch": null,
@@ -822,14 +822,14 @@
             "swift_code": "UNCRSKBX"
         },
         {
-            "id": "118",
+            "id": null,
             "bank": "VALOR O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "VOCPSKB1"
         },
         {
-            "id": "119",
+            "id": null,
             "bank": "VOLKSWAGEN FINANCE SLUŽBY SLOVENSKO",
             "city": "BRATISLAVA",
             "branch": null,
@@ -850,7 +850,7 @@
             "swift_code": "WUSTSKBA"
         },
         {
-            "id": "122",
+            "id": null,
             "bank": "X-TRADE BROKERS DM S.A., ORGANIZAČNÁ ZLOŽKA",
             "city": "BRATISLAVA",
             "branch": null,
