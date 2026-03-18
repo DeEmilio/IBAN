@@ -163,5 +163,19 @@
             "branch": null,
             "swift_code": "C24BDEFF"
         }
+        {
+            "id": "78050000",
+            "bank": "SPARKASSE PFORZHEIM CALW",
+            "city": "PFORZHEIM",
+            "branch": null,
+            "swift_code": "PFSKDE66"
+        },
+        {
+            "id": "20069177",
+            "bank": "PSD BANK NORD EG",
+            "city": "HAMBURG",
+            "branch": null,
+            "swift_code": "GENODEF1"
+        }
     ]
 }
