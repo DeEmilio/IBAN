@@ -142,5 +142,96 @@
             "branch": null,
             "swift_code": "VOWAPLP9"
         }
+        {
+            "id": "10300019",
+            "bank": "BANK HANDLOWY W WARSZAWIE S.A. (CITI)",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "CITIPLPX"
+        },
+        {
+            "id": "16001462",
+            "bank": "BNP PARIBAS BANK POLSKA S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "PPABPLPK"
+        },
+        {
+            "id": "10501836",
+            "bank": "ING BANK SLASKI S.A.",
+            "city": "KATOWICE",
+            "branch": "BRANCH",
+            "swift_code": "INGBPLPW"
+        },
+        {
+            "id": "13201537",
+            "bank": "BANK POCZTOWY S.A.",
+            "city": "BYDGOSZCZ",
+            "branch": "BRANCH",
+            "swift_code": "POSZPLPW"
+        },
+        {
+            "id": "11602202",
+            "bank": "BANK MILLENNIUM S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "BIGBPLPW"
+        },
+        {
+            "id": "12404908",
+            "bank": "BANK PEKAO S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "PKOPPLPW"
+        },
+        {
+            "id": "10902590",
+            "bank": "SANTANDER BANK POLSKA S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "WBKPPLPP"
+        },
+        {
+            "id": "10201042",
+            "bank": "PKO BANK POLSKI S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "BPKOPLPW"
+        },
+        {
+            "id": "10204681",
+            "bank": "PKO BANK POLSKI S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "BPKOPLPW"
+        },
+        {
+            "id": "10202629",
+            "bank": "PKO BANK POLSKI S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "BPKOPLPW"
+        },
+        {
+            "id": "10201013",
+            "bank": "PKO BANK POLSKI S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "BPKOPLPW"
+        },
+        {
+            "id": "10203206",
+            "bank": "PKO BANK POLSKI S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "BPKOPLPW"
+        },
+        {
+            "id": "10201332",
+            "bank": "PKO BANK POLSKI S.A.",
+            "city": "WARSZAWA",
+            "branch": "BRANCH",
+            "swift_code": "BPKOPLPW"
+        }
     ]
 }
