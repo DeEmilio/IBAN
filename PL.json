@@ -232,6 +232,13 @@
             "city": "WARSZAWA",
             "branch": "BRANCH",
             "swift_code": "BPKOPLPW"
+        },
+        {
+            "id": "19401076",
+            "bank": "CREDIT AGRICOLE BANK POLSKA S.A.",
+            "city": "WROCLAW",
+            "branch": "BRANCH",
+            "swift_code": "LUKBPLPW"
         }
     ]
 }
